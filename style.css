@@ -19,7 +19,7 @@ body {
 .card {
   position: relative;
   width: 700px;
-  height: 680px;
+  height: 580px;
   /* height: 450px; */
   background: #fff;
   border-radius: 20px;
@@ -74,7 +74,7 @@ body {
   text-align: center;
   width: 100%;
   transition: 0.5s;
-  transform: translateY(300px);
+  transform: translateY(250px);
 }
 
 .card:hover .content .details {
