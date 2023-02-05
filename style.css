@@ -74,7 +74,7 @@ body {
   text-align: center;
   width: 100%;
   transition: 0.5s;
-  transform: translateY(300px);
+  transform: translateY(400px);
 }
 
 .card:hover .content .details {
@@ -82,7 +82,7 @@ body {
 }
 
 .card .content .details h2 {
-  font-size: 2.50em;
+  font-size: 5.00em;
   font-weight: 600;
   color: #555;
   line-height: 1.2em;
